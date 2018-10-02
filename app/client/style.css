@@ -1,0 +1,25 @@
+.ui.borderless.topmenu.inverted.menu{
+  border: none;
+  box-shadow: none;
+  background-color: #333;
+  padding: 5px 0 5px 0;
+}
+
+.ui.borderless.middlemenu.menu{
+  background-color: #f9f9f9;
+  box-shadow: none;
+  border-bottom: 2px solid #999;
+  margin-top: -20px;
+  margin-bottom: -2px;
+}
+.ui.centered.container.grid{
+  margin: 25px 0 0 0;
+}
+
+
+.ui.inverted.segment, .ui.primary.inverted.segment{
+  background: #333;
+  font-family: "ProximaNova-Regular";
+  padding: 40px 0 20px 0;
+
+}
